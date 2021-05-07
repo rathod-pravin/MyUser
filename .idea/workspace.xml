@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="280c8d77-d96e-4d0e-8d2b-f07ec408610d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MyUser/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyUser/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyUser/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyUser/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Userapi/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Userapi/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Userapi/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Userapi/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="280c8d77-d96e-4d0e-8d2b-f07ec408610d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Userapi/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -44,6 +39,20 @@
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -108,6 +117,7 @@
         <option value="$PROJECT_DIR$/Userapi/serializers.py" />
         <option value="$PROJECT_DIR$/Userapi/views.py" />
         <option value="$PROJECT_DIR$/Userapi/urls.py" />
+        <option value="$PROJECT_DIR$/README.txt" />
       </list>
     </option>
   </component>
@@ -203,9 +213,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24960877" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24960877" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.29767442" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.29767442" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -277,6 +287,16 @@
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
